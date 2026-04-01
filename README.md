@@ -1,6 +1,6 @@
-# Projeto_Base_LP5 
+# LP5_AbstractFactory
 
-Este projeto visa servir como base para as atividades feitas para a disciplina de Linguagem de Programação 5, que tem como intuito desenvolver padrões de projeto em java, incluindo testes e diagramas de classe como documentação.
+Neste projeto, implementei um sistema de gestão de serviços de nuvem que abstrai os específicos de cada provedor (AWS e Azure como exemplo) utilizando o padrão Abstract Factory.
 
 ## Diagrama de Classe
 
